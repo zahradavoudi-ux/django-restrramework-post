@@ -6,3 +6,4 @@
  # restframework
  # use faker for data
  # use cache redis
+# جنگو پیشرفته مکتب خونه
